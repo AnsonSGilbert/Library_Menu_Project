@@ -1,5 +1,5 @@
 /* this class is used to provide the initial data */
-
+/* Book, Staff and Member data */
 package con.lms.data;
 
 import java.util.Hashtable;
